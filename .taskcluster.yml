@@ -88,4 +88,4 @@ tasks:
             REPO_NAME: ${repo_name}
             REPO_FULL_NAME: ${repo_full_name}
             CI_REPO_URL: https://github.com/Eijebong/divvun-tc.git
-            CI_REPO_REF: main
+            CI_REPO_REF: debug-deadlock
